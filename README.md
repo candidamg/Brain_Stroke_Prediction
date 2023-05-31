@@ -11,7 +11,7 @@ You can see/find the data set [HERE](/Resources/HF_clinical_records_dataset.csv)
 
 
 ### Members: 
-* Jay Laxami- [Github](https://github.com/JayLaxami)
+* Jay Laxami - [Github](https://github.com/JayLaxami)
 * Will Macmillan - [Github](https://github.com/willmacmillan)
 * Candida Miranda - [Github](https://github.com/candidamg)
 * Claudia Yurrita - [Github](https://github.com/Clauym)
