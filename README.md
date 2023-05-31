@@ -3,12 +3,13 @@
 
 
 
+### Questions:
+1. How sex affects heart failure deaths?
+2. Are there noticeable different factors between the people dead by heart failure and those who don't?
+3. Is there a model that estimates the outcomes better (we will test 2 models at least)?
+4. At what age are people having the highest probability of a heart failure in this dataset?
 
-
-You can see/find the data set [HERE](/Resources/HF_clinical_records_dataset.csv).
-
-
-
+You can find the .csv data [HERE](/Resources/HF_clinical_records_dataset.csv).
 
 ### Members: 
 * Jay Laxami - [Github](https://github.com/JayLaxami)
