@@ -18,14 +18,11 @@ You can see/find the data set [HERE](/Resources/HF_clinical_records_dataset.csv)
 
 
 ## Acknowledgements
-Citation
-Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020). (link)
+<b> Citation </b> <br>
+Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020). [LINK](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5) 
 
-License
+<b> License </b><br>
 CC BY 4.0
 
-Splash icon
-Icon by Freepik, available on Flaticon.
-
-Splash banner
-Wallpaper by jcomp, available on Freepik.
+<b> Splash banner </b><br>
+Cover by [jcomp](https://br.freepik.com/autor/jcomp), available on [Freepik](https://br.freepik.com/fotos-gratis/simplesmente-design-minimalista-com-estetoscopio-de-equipamento-de-medicina-ou-phonendoscope_5018002.htm#page=1&query=cardiology&position=3).
