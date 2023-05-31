@@ -1,5 +1,5 @@
 ![cover](/Images/dataset-cover.png)
-# Heart_Failure_Prediction
+# Heart Failure Predictions
 
 
 
