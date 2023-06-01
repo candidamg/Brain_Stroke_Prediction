@@ -1,4 +1,4 @@
-![cover](/Images/dataset-cover.jpg)
+![cover](/Images/dataset-cover.png)
 # Heart Failure Predictions
 
 
