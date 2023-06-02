@@ -1,7 +1,7 @@
 ![cover](/Images/dataset-cover.jpg)
 # Brain Stroke Predictions
 
-# Rationale
+### Rationale
 A ischemic stroke (or cerebrovascular accident) occurs when the blood supply to a part of the brain is interrupted o reduced. In accordance to the Natinal Center for Health it is the fifth cause of dead for people in the US with an account of 162,890 people during 2021. Globally strokes are the second cause of death globally. These factors make the study of strokes an interesting one in an era where we can make use of recent technologies in order to estimate, and hopefully reduce, this kind of incidents.
 
 ### Questions:
