@@ -12,6 +12,7 @@ A ischemic stroke (or cerebrovascular accident) occurs when the blood supply to 
 5. Are there any factors that better predict increased risk of brain stroke?
 
 You can preview the brain stroke data set (.csv) used on this project [HERE](/Resources/brain_stroke_data.csv). To download the original data set click [HERE](https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset/download?datasetVersionNumber=2).
+https://www.kaggle.com/datasets/zzettrkalpakbal/full-filled-brain-stroke-dataset
 
 ### Members: 
 * Jay Laxami - [Github](https://github.com/JayLaxami)
